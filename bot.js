@@ -31,4 +31,4 @@ client.user.setGame(`Nothing`,"http://twitch.tv/S-F")
 
 
 
-client.login('NDg2MzQ4OTg2MTQwMzI3OTQ3.Dm-avQ.qOG0yX1ynXt-bpoBePtCQTE9Ne0');
+client.login('NDg2MzQ4OTg2MTQwMzI3OTQ3.DnCiwA.BOik07HyUy94WosL2YQD1C1ZgrE');
