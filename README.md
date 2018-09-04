@@ -1,2 +1,0 @@
-# asdasdfsafasdfdasfasdfasfasfasdfasfasdfas
-FAYED.me
